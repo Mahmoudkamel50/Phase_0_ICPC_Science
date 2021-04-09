@@ -1,0 +1,325 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch base",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.14_6ea93269"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(1)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.19_6ea9326e"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(2)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.1_b0fd332b"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(3)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.22_6ea93286"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(4)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.27_6ea9328b"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(5)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.2_b0fd332c"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(6)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.3_b0fd332d"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(7)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.4_b0fd332e"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(8)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.5_b0fd332f"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(9)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.6_b0fd3330"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(10)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "10.7_b0fd3331"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(11)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.10_a38fe205"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(12)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.11_a38fe206"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(13)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.12_a38fe207"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(14)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.13_a38fe208"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(15)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.14_a38fe209"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(16)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.1_b2b20f8b"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(17)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.2_b2b20f8c"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(18)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.4_b2b20f8e"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(19)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.5_b2b20f8f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Base",
+            "request": "launch",
+            "mainClass": "Base",
+            "projectName": "11.6_b2b20f90"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(20)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.8_b2b20f92"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(21)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "11.9_b2b20f93"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculatorWithException",
+            "request": "launch",
+            "mainClass": "CalculatorWithException",
+            "projectName": "12.1_b466ebeb"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(22)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "12.5_b466ebef"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(23)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.13_d5d4148"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(24)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.1_b61bc84b"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(25)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.2_b61bc84c"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(26)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.3_b61bc84d"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(27)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.5_b61bc84f"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(28)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.6_b61bc850"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(29)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.7_b61bc851"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(30)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "13.8_b61bc852"
+        },
+        {
+            "type": "java",
+            "name": "Launch Location",
+            "request": "launch",
+            "mainClass": "Location",
+            "projectName": "9.13_b10b3d4"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "9.1_3a29d43f"
+        },
+        {
+            "type": "java",
+            "name": "Launch main(1)",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "9.2_3a29d440"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(31)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "9.4_3a29d442"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(32)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "9.5_3a29d443"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(33)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "9.6_3a29d444"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(34)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "9.7_3a29d445"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(35)",
+            "request": "launch",
+            "mainClass": "base",
+            "projectName": "9.8_3a29d446"
+        },
+        {
+            "type": "java",
+            "name": "Launch Base(1)",
+            "request": "launch",
+            "mainClass": "Base"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintCalendar",
+            "request": "launch",
+            "mainClass": "PrintCalendar"
+        },
+        {
+            "type": "java",
+            "name": "Launch base(36)",
+            "request": "launch",
+            "mainClass": "base"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test"
+        }
+    ]
+}
